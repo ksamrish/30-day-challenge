@@ -1,0 +1,13 @@
+inp = int(input())
+l = []
+for i in range(inp):
+    val = int(input())
+    l.append(val)
+for i in range(inp-1):
+    for j in range(i+1,inp):
+        if(l[i]>l[j]):
+            temp = l[i]
+            l[i] = l[j]
+            l[j] = temp
+
+print(l[inp-1],' ',l[inp-2],' ',l[inp-3])
