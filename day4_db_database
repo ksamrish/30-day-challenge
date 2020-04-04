@@ -1,0 +1,4 @@
+Database is like collection of datas. It contains lot of information in a domain. Server using database to give information to us when we try to retrieve data from internet.
+Data structure is like structuring the data in different format. Example like stack,queue they are different structures where we study in data structures and algorithms.
+Similarities between two is datas structuring and organisation in a way to store it.
+Difference is in database, we can store info in table format, but in data structures, we store it in ordered way in different formats.
