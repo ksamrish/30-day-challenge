@@ -1,0 +1,2 @@
+Ternary operator is comparision of two expression or numbers, and if true we will allocate one statement , else allocate another statement.
+Syntax is :    a>b ? print(a) : print(b);
