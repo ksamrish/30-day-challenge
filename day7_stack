@@ -1,0 +1,4 @@
+Stack is a data structure which is first in last out (FILO) or last in first out (LIFO)
+Stack is used to arrange a set of datas into a box (say)
+Example is arranging chairs, notes, etc...
+Real time computer example is stack in the debug program while in recursive call
