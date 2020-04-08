@@ -1,0 +1,4 @@
+Abstraction is something called as blueprint or a structure of a whole thing.
+Like wise data abstraction is a major part in object oriented programming.
+It will say what to do , but not how to do in programming.
+Meaning if a car is there as object, now petrol in car will used to drive, it let us know, but what petrol's action with car is how part, so it is unnecessary for us to know.
