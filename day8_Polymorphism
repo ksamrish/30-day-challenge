@@ -1,5 +1,0 @@
-Polymorphism generally means many forms.
-In programming, polymorphism is divided into compile time and run time polymorphism.
-Compile time polymorphism is overloading. And run time is overriding.
-overloading means signature same, but we do it for different datatypes or addition terms
-overriding is we may override the parent method to other properties or function and overwrite it.
