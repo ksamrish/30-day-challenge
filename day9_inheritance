@@ -1,0 +1,3 @@
+Inheritance is a concept of parent and child.
+Inheriting from parent class means, we will use our parent class function or something and also we will do our own function in our class.
+We also override functions from parent to child.
